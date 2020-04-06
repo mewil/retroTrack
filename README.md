@@ -1,4 +1,6 @@
-# retroTrack #
+# RetroTrack
+
+[![Build Status](https://travis-ci.org/mewil/retroTrack.svg?branch=master)](https://travis-ci.org/mewil/retroTrack)
 
 retroTrack is a web-based satellite tracking program that uses TLE's to calculate and display the orbits of satellites using HTML5 canvas.
 
